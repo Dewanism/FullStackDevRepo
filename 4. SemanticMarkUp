@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+    <head>
+        <title> This is called Semantic Markup</title>
+    </head>
 
+    <body>
+        <h1> Testing out Semantic Markup</h1>
+        <hr />
+        <p> This is very <strong> strong </strong> </p>
+        <p> I'm putting <em>Emphasis</em> on such an idea. </p>
+        
+    </body>
 
 </html>
