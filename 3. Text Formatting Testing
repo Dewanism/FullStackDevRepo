@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <head>
+        <title> Text Testing </title>
+    </head>
+
+    <body>
+        <h1> This is heading </h1> 
+        <hr /> 
+        <h2> This is a subheading </h2>
+        <hr />
+        <h3> This is smaller heading </h3>
+        <hr /> 
+        <h4> This is a even smaller heading </h4>
+        <hr />
+        <h5> This is a a even smaller smaller heading </h5>
+        <hr />
+        <h6> This is the smallest heading you can make </h6>
+        <hr /> 
+
+        <p> This is a paragraph </p>
+
+        <p> This is a <b> bold </b> text and this is an <i> italic </i> text. </p>
+
+        <p> I like to drink H<sub>2</sub>O </p>
+
+        <h1> September - Earth, Wind & Fire </h1> 
+        <hr />
+        <p> Do you remember the 21<sup>st</sup> night of september? <br /> Love was changin' the mind of pretenders <br /> While chasin' the clouds away</p>
+
+        <hr /> 
+
+    </body>
+</html>
