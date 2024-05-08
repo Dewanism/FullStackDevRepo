@@ -6,9 +6,21 @@
     <body>
         <h1> Testing out Semantic Markup</h1>
         <hr />
+
+        <h2> <strong> Strong </strong> & <em> Emphasis </em> </h2>
+        <hr />
         <p> This is very <strong> strong </strong> </p>
         <p> I'm putting <em>Emphasis</em> on such an idea. </p>
-        
+      
+        <h2> Blockquotes and Quotes </h2>
+        <hr />
+        <blockquote cite="https://www.azquotes.com/quote/495606?ref=funny-science">To steal ideas from one person is plagiarism; to steal from many is research.</blockquote>
+        <q> The definition of insantiy is doing the same thing and expecting shit to change. </q>
+        <q> This is a joke </q>
+
+        <blockquote cite="http://en.wikipedia.org/wiki/Winnie-the-Pooh"><p>Did you ever stop to think, and forget to start again?</p> </blockquote>
+        <q cite="lolthisisfake.com"> Jokes. </q>
+
     </body>
 
 </html>
