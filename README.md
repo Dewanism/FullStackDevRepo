@@ -1,4 +1,4 @@
-# HTMLandCSS
+# WebDevelopment
 
 I'm just practicing HTML and CSS through this repository.
 
